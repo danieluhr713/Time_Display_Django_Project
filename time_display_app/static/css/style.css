@@ -1,0 +1,22 @@
+p {
+    color:blue;
+    text-align: center;
+    border: #000000 solid 1px;
+    display: block;
+    width: 300px;
+    justify-content: center;
+    margin-left: 550px;
+}
+
+#clock {
+    color:blue;
+    text-align: center;
+    border: #000000 solid 1px;
+    display: block;
+    width: 220px;
+    height: 100px;
+    justify-content: center;
+    margin-left: 470px;
+    padding-left: 120px;
+    padding-right: 120px;
+}
